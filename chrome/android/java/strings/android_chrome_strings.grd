@@ -4599,7 +4599,10 @@ watching privacy-respecting ads.
         BAT
       </message>
       <message name="IDS_BRAVE_UI_USD" desc="USD value of tokens">
-        <ph name="VALUE">%1$s<ex>0.0</ex></ph> USD
+        <ph name="VALUE">%1$s<ex>0.0</ex></ph>
+      </message>
+      <message name="IDS_BRAVE_UI_USD_TEXT" desc="Text for USD value">
+        USD
       </message>
       <message name="IDS_BRAVE_REWARDS_LOCAL_PANEL_ADD_FUNDS" desc="Add Funds button text">
         Add Funds

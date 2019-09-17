@@ -158,7 +158,8 @@ watching privacy-respecting ads.</string>
     <string name="brave_ui_rewards_creating_text">Creating wallet</string>
     <string name="brave_ui_your_wallet">Your wallet</string>
     <string name="brave_ui_bat_text">BAT</string>
-    <string name="brave_ui_usd"><ph name="VALUE">%1$s<ex>0.0</ex></ph> USD</string>
+    <string name="brave_ui_usd"><ph name="VALUE">%1$s<ex>0.0</ex></ph></string>
+    <string name="brave_ui_usd_text">USD</string>
     <string name="brave_rewards_local_panel_add_funds">Add Funds</string>
     <string name="brave_ui_settings">Settings</string>
     <string name="brave_ui_rewards_summary">REWARDS SUMMARY</string>
